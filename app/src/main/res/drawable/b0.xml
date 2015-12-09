@@ -17,7 +17,7 @@
         android:dashGap="0dp"
         android:dashWidth="5dp"
         android:width="2dp"
-        android:color="#4171B8" />
+        android:color="#4171B9" />
 
     <!-- 虚线的高度 -->
     <size android:height="10dp" />
