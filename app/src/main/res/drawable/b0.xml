@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- 填充颜色 -->
+    <solid
+        android:color="#4171B8" >
+
+
+    </solid>
+
+    <!-- 显示一条实线，线的宽度为 width，颜色为 color -->
+    <!-- <stroke android:width="2dp" android:color="#E3E0D5"></stroke> -->
+
+    <!-- 显示一条虚线，破折线的宽度为 dashWith，破折线之间的空隙的宽度为 dashGap，当 dashGap=0dp 时，为实线 -->
+    <stroke
+        android:dashGap="0dp"
+        android:dashWidth="5dp"
+        android:width="2dp"
+        android:color="#4171B8" />
+
+    <!-- 虚线的高度 -->
+    <size android:height="10dp" />
+
+    <!-- 矩形的圆角半径 -->
+    <corners android:radius="0dp" />
+
+</shape>

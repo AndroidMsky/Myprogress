@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+<solid
+
+    android:color="#C6C2BD" >
+
+
+</solid>
+
+    <stroke
+        android:dashGap="0dp"
+        android:dashWidth="5dp"
+        android:width="2dp"
+        android:color="#C6C2BD" />
+<size android:height="10dp" />
+ <corners android:radius="0dp" />
+
+</shape>
